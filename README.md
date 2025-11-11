@@ -1,4 +1,4 @@
-## Hi there I am a software developer.👋
+## Motivated and detail-oriented Java Developer with hands-on experience in full-stack application development using Java, Spring Boot, React, and SQL databases. Over 2 years of professional experience in banking and customer relationship management. Strong foundation in PostgreSQL and Cassandra, with a passion for building scalable, data-driven applications. Currently pursuing AWS Certified Solutions Architect certification and continuously enhancing technical skills through new projects and learning.👋
 
 <!--
 **Deepa0427/Deepa0427** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
